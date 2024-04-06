@@ -1,2 +1,2 @@
-## Contributor's name and github username
+## Contributors names and github usernames
 * Cristian Marrufo: Cristian-Marrufo
